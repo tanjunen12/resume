@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.84ce1858.chunk.css",
-    "main.js": "/static/js/main.cb95523b.chunk.js",
-    "main.js.map": "/static/js/main.cb95523b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e5b1187f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e5b1187f.js.map",
-    "static/js/2.d4174495.chunk.js": "/static/js/2.d4174495.chunk.js",
-    "static/js/2.d4174495.chunk.js.map": "/static/js/2.d4174495.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.569de6760a692a8cf86e120823c2271c.js": "/precache-manifest.569de6760a692a8cf86e120823c2271c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.84ce1858.chunk.css.map": "/static/css/main.84ce1858.chunk.css.map",
-    "static/js/2.d4174495.chunk.js.LICENSE.txt": "/static/js/2.d4174495.chunk.js.LICENSE.txt",
-    "static/media/Resume.pdf": "/static/media/Resume.4699e395.pdf",
-    "static/media/index.css": "/static/media/contact.57445ef7.jpg",
-    "static/media/instagram.png": "/static/media/instagram.34ada163.png",
-    "static/media/java.svg": "/static/media/java.cce27e61.svg",
-    "static/media/pika.png": "/static/media/pika.e71c2145.png",
-    "static/media/python.svg": "/static/media/python.01766e9c.svg",
-    "static/media/slack.svg": "/static/media/slack.e82b326f.svg"
+    "main.css": "/resume/static/css/main.6b108528.chunk.css",
+    "main.js": "/resume/static/js/main.a8802731.chunk.js",
+    "main.js.map": "/resume/static/js/main.a8802731.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.3ebc219f.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.3ebc219f.js.map",
+    "static/js/2.d4174495.chunk.js": "/resume/static/js/2.d4174495.chunk.js",
+    "static/js/2.d4174495.chunk.js.map": "/resume/static/js/2.d4174495.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.1fc654bf8074be15540679e28b61f05b.js": "/resume/precache-manifest.1fc654bf8074be15540679e28b61f05b.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/main.6b108528.chunk.css.map": "/resume/static/css/main.6b108528.chunk.css.map",
+    "static/js/2.d4174495.chunk.js.LICENSE.txt": "/resume/static/js/2.d4174495.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/resume/static/media/Resume.4699e395.pdf",
+    "static/media/index.css": "/resume/static/media/contact.57445ef7.jpg",
+    "static/media/instagram.png": "/resume/static/media/instagram.34ada163.png",
+    "static/media/java.svg": "/resume/static/media/java.cce27e61.svg",
+    "static/media/pika.png": "/resume/static/media/pika.e71c2145.png",
+    "static/media/python.svg": "/resume/static/media/python.01766e9c.svg",
+    "static/media/slack.svg": "/resume/static/media/slack.e82b326f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e5b1187f.js",
+    "static/js/runtime-main.3ebc219f.js",
     "static/js/2.d4174495.chunk.js",
-    "static/css/main.84ce1858.chunk.css",
-    "static/js/main.cb95523b.chunk.js"
+    "static/css/main.6b108528.chunk.css",
+    "static/js/main.a8802731.chunk.js"
   ]
 }
