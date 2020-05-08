@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.6b108528.chunk.css",
+    "main.js": "/resume/static/js/main.70bfb7e5.chunk.js",
+    "main.js.map": "/resume/static/js/main.70bfb7e5.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.3ebc219f.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.3ebc219f.js.map",
+    "static/js/2.d4174495.chunk.js": "/resume/static/js/2.d4174495.chunk.js",
+    "static/js/2.d4174495.chunk.js.map": "/resume/static/js/2.d4174495.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.0044d8dfc4dc4ecaf0a0ba42f9d99da4.js": "/resume/precache-manifest.0044d8dfc4dc4ecaf0a0ba42f9d99da4.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/main.6b108528.chunk.css.map": "/resume/static/css/main.6b108528.chunk.css.map",
+    "static/js/2.d4174495.chunk.js.LICENSE.txt": "/resume/static/js/2.d4174495.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/resume/static/media/Resume.4699e395.pdf",
+    "static/media/index.css": "/resume/static/media/contact.57445ef7.jpg",
+    "static/media/instagram.png": "/resume/static/media/instagram.34ada163.png",
+    "static/media/java.svg": "/resume/static/media/java.cce27e61.svg",
+    "static/media/pika.png": "/resume/static/media/pika.e71c2145.png",
+    "static/media/python.svg": "/resume/static/media/python.01766e9c.svg",
+    "static/media/slack.svg": "/resume/static/media/slack.e82b326f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ebc219f.js",
+    "static/js/2.d4174495.chunk.js",
+    "static/css/main.6b108528.chunk.css",
+    "static/js/main.70bfb7e5.chunk.js"
+  ]
+}
